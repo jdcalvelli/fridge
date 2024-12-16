@@ -17,7 +17,6 @@ class Fridge {
 	}
 
 	onSetup() {
-		this.p5Image.resize(384, 0);
 	}	
 
 	onDraw() {
