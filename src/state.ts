@@ -1,28 +1,29 @@
 import m from "mithril";
 
-import thoughts from "./data/thoughts.json";
-
 interface Game {
-	gameName: string,
-	studentName: string,
-	prompt: string,			
-	reflections: string 
-} 
+	gameName: string;
+	studentName: string;
+	prompt: string;
+	imgSrc: string;
+	reflections: string;
+}
 
 const state: {
-		correspondingGame: Game | null,
-		selectedNote: number | null,
-		updateSelectedNote: (arg: number | null) => void,
-	} = {
-	correspondingGame: null,
+	gameList: Array<Game> | null;
+	updateGameList: (arg: Array<Game>) => void;
+	selectedNote: number | null;
+	updateSelectedNote: (arg: number | null) => void;
+} = {
+	gameList: null,
+	updateGameList: (arg) => {
+		state.gameList = arg;
+		m.redraw();
+	},
 	selectedNote: null,
 	updateSelectedNote: (arg) => {
 		state.selectedNote = arg;
-		
-		state.correspondingGame = thoughts.gameList[state.selectedNote!];
-
 		m.redraw();
 	},
-}
+};
 
 export default state;

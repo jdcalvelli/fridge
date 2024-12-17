@@ -6,7 +6,7 @@ class Fridge {
 	x: number;
 	y: number;
 
-	constructor(_p5Context:p5, _x:number, _y:number) {
+	constructor(_p5Context: p5, _x: number, _y: number) {
 		this.p5Context = _p5Context;
 		this.x = _x;
 		this.y = _y;
@@ -16,16 +16,13 @@ class Fridge {
 		this.p5Image = this.p5Context.loadImage("/fridge.png");
 	}
 
-	onSetup() {
-	}	
+	onSetup() {}
 
 	onDraw() {
 		this.p5Context.image(this.p5Image, this.x, this.y);
 	}
 
-	onClick() {
-	}
-
+	onClick() {}
 }
 
 export default Fridge;

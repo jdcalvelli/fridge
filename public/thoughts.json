@@ -1,0 +1,109 @@
+{
+	"gameList": [
+		{
+			"gameName": "the end?",
+			"studentName": "matthew berlin",
+			"prompt": "prompt 10: ozymandias, by percy shelley",
+			"imgSrc": "/students/berlin.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "make some space (week 6 prototype)",
+			"studentName": "nicholas bobbe",
+			"prompt": "prompt 6: space",
+			"imgSrc": "/students/bobbe.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "3 month free trial",
+			"studentName": "hope calvet",
+			"prompt": "prompt 3: flipping through the dictionary",
+			"imgSrc": "/students/calvet.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "peaches n cream",
+			"studentName": "caitlin derosa",
+			"prompt": "prompt 11: peach, by kevin abstract",
+			"imgSrc": "/students/derosa.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "into nothing",
+			"studentName": "emily kapsalis",
+			"prompt": "prompt 10: ozymandias, by percy shelley",
+			"imgSrc": "/students/kapsalis.jpg",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "life with you",
+			"studentName": "aubrey kennedy",
+			"prompt": "prompt 11: peach, by kevin abstract",
+			"imgSrc": "/students/kennedy.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "proto 9 harlem",
+			"studentName": "anthony lectora",
+			"prompt": "prompt 9: harlem, by langston hughes",
+			"imgSrc": "/students/lectora.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "ozymandius",
+			"studentName": "connor rowland",
+			"prompt": "prompt 10: ozymandias, by percy shelley",
+			"imgSrc": "/students/rowland.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "at your service, my princess! (prompt 11)",
+			"studentName": "ian salberg",
+			"prompt": "prompt 11: peach, by kevin abstract",
+			"imgSrc": "/students/salberg.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "the missing pieces (shattered dreams)",
+			"studentName": "dillon smith",
+			"prompt": "prompt 12: shattered dreams, by johnny hates jazz",
+			"imgSrc": "/students/smith.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "live service fps game",
+			"studentName": "drew taylor",
+			"prompt": "prompt 5: time",
+			"imgSrc": "/students/taylor.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "shattered dreams",
+			"studentName": "alexa teta",
+			"prompt": "prompt 12: shattered dreams, by johnny hates jazz",
+			"imgSrc": "/students/teta.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "once bitten",
+			"studentName": "jonathan valverde",
+			"prompt": "prompt 4: a set of two tarot cards",
+			"imgSrc": "/students/valverde.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "where's waldo?",
+			"studentName": "jake weiner",
+			"prompt": "prompt 8: bitsy, the engine",
+			"imgSrc": "/students/weiner.png",
+			"reflections": "TO DO"
+		},
+		{
+			"gameName": "who wants to be not submerged in solid concrete?",
+			"studentName": "jack weissman",
+			"prompt": "prompt 6: space",
+			"imgSrc": "/students/weissman.png",
+			"reflections": "TO DO"
+		}
+	]
+}
