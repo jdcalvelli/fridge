@@ -6,6 +6,7 @@ interface Game {
 	prompt: string;
 	imgSrc: string;
 	reflections: string;
+	itchLink: string;
 }
 
 const state: {

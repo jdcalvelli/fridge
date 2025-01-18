@@ -41,6 +41,9 @@ const C_Info: m.Component = {
 					src: state.gameList![state.selectedNote!].imgSrc,
 				}),
 				m("p", `${state.gameList![state.selectedNote!].reflections}`),
+				m("p", [
+					m("a", {href: state.gameList![state.selectedNote!].itchLink}, `play it here`)
+				]),
 			]);
 		}
 	},
